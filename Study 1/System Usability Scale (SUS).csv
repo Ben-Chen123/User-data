@@ -1,0 +1,28 @@
+group,Timestamp,Your age,Your gender,I think that I would like to use this system frequently.,I found the system unnecessarily complex.,I thought the system was easy to use.,I think that I would need the support of a technical person to be able to use this system.,I found the various functions in this system were well integrated.,I thought there was too much inconsistency in this system.,I would imagine that most people would learn to use this system very quickly.,I found the system very cumbersome to use.,I felt very confident using the system.,I needed to learn a lot of things before I could get going with this system.
+experimental group,2025/11/19 8:29:16 PM GMT,30,Male,4,1,5,2,4,2,5,4,5,2
+experimental group,2025/12/03 10:56:03 AM GMT,26,Male,4,3,5,2,3,2,5,3,4,1
+experimental group,2025/12/09 1:45:05 PM GMT,42,Male,4,1,4,1,3,1,4,1,5,1
+experimental group,2025/12/17 8:12:08 PM GMT,33,Male,3,2,4,1,4,2,4,2,4,2
+experimental group,2026/01/09 11:17:55 AM GMT,29,Female,3,1,5,1,5,1,5,3,5,1
+experimental group,2026/01/09 3:15:13 PM GMT,40,Male,4,2,3,1,4,2,5,1,5,1
+experimental group,2026/01/13 11:26:57 AM GMT,29,Female,4,2,4,1,4,1,5,1,5,1
+experimental group,2026/01/13 2:15:27 PM GMT,27,Male,1,2,4,1,4,1,5,1,2,1
+experimental group,2026/01/13 3:14:34 PM GMT,26,Female,1,2,3,1,3,2,4,3,2,2
+experimental group,2026/01/13 4:26:10 PM GMT,27,Female,2,2,4,1,3,2,5,2,4,1
+experimental group,2026/01/14 2:22:25 PM GMT,39,Female,4,3,4,1,5,2,5,1,5,1
+experimental group,2026/01/15 11:18:32 AM GMT,36,Female,3,1,4,1,2,1,5,1,5,1
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+group,Timestamp,Your age,Your gender,I think that I would like to use this system frequently.,I found the system unnecessarily complex.,I thought the system was easy to use.,I think that I would need the support of a technical person to be able to use this system.,I found the various functions in this system were well integrated.,I thought there was too much inconsistency in this system.,I would imagine that most people would learn to use this system very quickly.,I found the system very cumbersome to use.,I felt very confident using the system.,I needed to learn a lot of things before I could get going with this system.
+control group,2026/01/15 2:16:36 PM GMT,45,Male,1,1,4,1,3,4,4,1,3,1
+control group,2026/01/19 12:26:08 PM GMT,43,Male,2,2,3,1,3,3,4,1,3,1
+control group,2026/01/20 2:24:01 PM GMT,26,Female,3,1,2,3,3,1,4,1,3,2
+control group,2026/01/20 3:19:23 PM GMT,27,Female,2,3,5,1,2,2,1,1,3,1
+control group,2026/01/21 3:12:53 PM GMT,34,Female,4,1,4,1,3,1,5,1,5,1
+control group,2026/01/21 4:12:56 PM GMT,32,Male,2,1,4,2,3,3,5,1,4,1
+control group,2026/01/22 2:09:53 PM GMT,27,Female,3,3,5,2,3,2,4,2,3,2
+control group,2026/01/22 3:38:29 PM GMT,56,Male,2,2,5,1,2,2,5,1,4,1
+control group,2026/01/23 11:17:32 AM GMT,48,Female,2,1,5,1,3,2,4,1,5,1
+control group,2026/01/23 2:18:13 PM GMT,39,Female,2,2,4,1,3,2,2,2,4,1
+control group,2026/01/27 11:10:01 AM GMT,36,Male,2,4,4,1,4,2,5,3,4,2
+control group,,32,Male,2,4,4,1,4,2,5,1,4,2
